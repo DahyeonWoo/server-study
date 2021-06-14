@@ -15,3 +15,7 @@
 * [7.Token, Local Storage, Paging](https://github.com/defwdahyun0/Backend_2021SpringStudy/blob/main/Project/Backend%20/Backend_2021springstudy_7.md)
 
 * [8.Regex, Test Env, Social Token, In-app Billing](https://github.com/defwdahyun0/Backend_2021SpringStudy/blob/main/Project/Backend%20/Backend_2021springstudy_8.md)
+
+### 참고사항
+
+* git log는 WIL(What I Learned) Repository를 참고해주시길 바랍니다.
